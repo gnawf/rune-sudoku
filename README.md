@@ -2,7 +2,7 @@
 
 Solves [Rune Sudoku](https://oldschool.runescape.wiki/w/Rogue_Trader#Runes) using an image of the initial sudoku board.
 
-# Usage
+## Usage
 
 ```
 ./gradlew run
@@ -18,7 +18,7 @@ If the argument is omitted, then the script uses the most recent Runelite screen
 
 The solution is saved to `output.png` in the current working directory.
 
-# Executable Jar
+## Executable Jar
 
 To build an executable jar run the following command:
 
